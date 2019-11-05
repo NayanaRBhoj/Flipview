@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Flipview.iml" filepath="$PROJECT_DIR$/Flipview.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LeonidsLib/LeonidsLib.iml" filepath="$PROJECT_DIR$/LeonidsLib/LeonidsLib.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bubblepicker/bubblepicker.iml" filepath="$PROJECT_DIR$/bubblepicker/bubblepicker.iml" />
+      <module fileurl="file://$PROJECT_DIR$/library/library.iml" filepath="$PROJECT_DIR$/library/library.iml" />
+      <module fileurl="file://$PROJECT_DIR$/snowfall/snowfall.iml" filepath="$PROJECT_DIR$/snowfall/snowfall.iml" />
+    </modules>
+  </component>
+</project>

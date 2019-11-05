@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="debug$Generated" generated="true"><source path="/home/imadmin/NayanaBhoj/AndroidStudio 3.0 canary/Random/flipview_final/library/build/intermediates/bundles/debug/res"/></dataSet><dataSet config="main$Generated" generated="true"><source path="/home/imadmin/NayanaBhoj/AndroidStudio 3.0 canary/Random/flipview_final/library/src/androidTest/res"/><source path="/home/imadmin/NayanaBhoj/AndroidStudio 3.0 canary/Random/flipview_final/library/build/generated/res/rs/androidTest/debug"/><source path="/home/imadmin/NayanaBhoj/AndroidStudio 3.0 canary/Random/flipview_final/library/build/generated/res/resValues/androidTest/debug"/></dataSet><dataSet config="debug" from-dependency="true" generated-set="debug$Generated"><source path="/home/imadmin/NayanaBhoj/AndroidStudio 3.0 canary/Random/flipview_final/library/build/intermediates/bundles/debug/res"><file path="/home/imadmin/NayanaBhoj/AndroidStudio 3.0 canary/Random/flipview_final/library/build/intermediates/bundles/debug/res/values/values.xml" qualifiers=""><declare-styleable name="FlipView"><attr format="enum" name="orientation">
+            <enum name="vertical" value="0"/>
+            <enum name="horizontal" value="1"/>
+        </attr><attr format="enum" name="overFlipMode">
+            <enum name="glow" value="0"/>
+            <enum name="rubber_band" value="1"/>
+        </attr></declare-styleable></file></source></dataSet><dataSet config="main" generated-set="main$Generated"><source path="/home/imadmin/NayanaBhoj/AndroidStudio 3.0 canary/Random/flipview_final/library/src/androidTest/res"/><source path="/home/imadmin/NayanaBhoj/AndroidStudio 3.0 canary/Random/flipview_final/library/build/generated/res/rs/androidTest/debug"/><source path="/home/imadmin/NayanaBhoj/AndroidStudio 3.0 canary/Random/flipview_final/library/build/generated/res/resValues/androidTest/debug"/></dataSet><mergedItems><configuration qualifiers=""><declare-styleable name="FlipView"><attr format="enum" name="orientation">
+            <enum name="vertical" value="0"/>
+            <enum name="horizontal" value="1"/>
+        </attr><attr format="enum" name="overFlipMode">
+            <enum name="glow" value="0"/>
+            <enum name="rubber_band" value="1"/>
+        </attr></declare-styleable></configuration></mergedItems></merger>

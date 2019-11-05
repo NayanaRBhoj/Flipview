@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main$Generated" generated="true"><source path="/home/nayana/Nayana/Github/Flipview/snowfall/src/main/res"/><source path="/home/nayana/Nayana/Github/Flipview/snowfall/build/generated/res/rs/release"/><source path="/home/nayana/Nayana/Github/Flipview/snowfall/build/generated/res/resValues/release"/></dataSet><dataSet config="release$Generated" generated="true"><source path="/home/nayana/Nayana/Github/Flipview/snowfall/src/release/res"/></dataSet><dataSet config="main" generated-set="main$Generated"><source path="/home/nayana/Nayana/Github/Flipview/snowfall/src/main/res"><file path="/home/nayana/Nayana/Github/Flipview/snowfall/src/main/res/values/attrs.xml" qualifiers=""><declare-styleable name="SnowfallView">
+    <attr format="integer" name="snowflakesNum"/>
+    <attr format="reference" name="snowflakeImage"/>
+    <attr format="integer" name="snowflakeAlphaMin"/>
+    <attr format="integer" name="snowflakeAlphaMax"/>
+    <attr format="integer" name="snowflakeAngleMax"/>
+    <attr format="dimension" name="snowflakeSizeMin"/>
+    <attr format="dimension" name="snowflakeSizeMax"/>
+    <attr format="integer" name="snowflakeSpeedMin"/>
+    <attr format="integer" name="snowflakeSpeedMax"/>
+    <attr format="boolean" name="snowflakesFadingEnabled"/>
+    <attr format="boolean" name="snowflakesAlreadyFalling"/>
+  </declare-styleable></file></source><source path="/home/nayana/Nayana/Github/Flipview/snowfall/build/generated/res/rs/release"/><source path="/home/nayana/Nayana/Github/Flipview/snowfall/build/generated/res/resValues/release"/></dataSet><dataSet config="release" generated-set="release$Generated"><source path="/home/nayana/Nayana/Github/Flipview/snowfall/src/release/res"/></dataSet><mergedItems><configuration qualifiers=""><declare-styleable name="SnowfallView"><attr format="integer" name="snowflakesNum"/><attr format="reference" name="snowflakeImage"/><attr format="integer" name="snowflakeAlphaMin"/><attr format="integer" name="snowflakeAlphaMax"/><attr format="integer" name="snowflakeAngleMax"/><attr format="dimension" name="snowflakeSizeMin"/><attr format="dimension" name="snowflakeSizeMax"/><attr format="integer" name="snowflakeSpeedMin"/><attr format="integer" name="snowflakeSpeedMax"/><attr format="boolean" name="snowflakesFadingEnabled"/><attr format="boolean" name="snowflakesAlreadyFalling"/></declare-styleable></configuration></mergedItems></merger>
